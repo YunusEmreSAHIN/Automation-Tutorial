@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="629a11c6-98d3-47a2-a8a4-2a05d2cc858a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/İslemler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/İslemler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,39 +32,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG.BaseTest.getList.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.İslemler.tutorial.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Otomasyon/Automation-Tutorial/src/main/java/org/example/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.BaseTest.getList.executor": "Run",
+    "TestNG.RBandDD.radioButton.executor": "Run",
+    "TestNG.SwitchToWindow.SwitchWindow.executor": "Run",
+    "TestNG.SwitchToWindow.tutorial.executor": "Run",
+    "TestNG.İslemler.tutorial.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Otomasyon/Automation-Tutorial/src/main/java/org/example/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="TestNG.İslemler.tutorial">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+}]]></component>
+  <component name="RunManager" selected="TestNG.RBandDD.radioButton">
+    <configuration name="RBandDD.ddList" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation-Tutorial" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RBandDD" />
+      <option name="METHOD_NAME" value="ddList" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BaseTest.getList" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RBandDD.radioButton" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation-Tutorial" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BaseTest" />
-      <option name="METHOD_NAME" value="getList" />
+      <option name="MAIN_CLASS_NAME" value="RBandDD" />
+      <option name="METHOD_NAME" value="radioButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchToWindow.SwitchWindow" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation-Tutorial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SwitchToWindow" />
+      <option name="METHOD_NAME" value="SwitchWindow" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchToWindow.tutorial" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation-Tutorial" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SwitchToWindow" />
+      <option name="METHOD_NAME" value="tutorial" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -85,9 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RBandDD.radioButton" />
+        <item itemvalue="TestNG.RBandDD.ddList" />
+        <item itemvalue="TestNG.SwitchToWindow.SwitchWindow" />
+        <item itemvalue="TestNG.SwitchToWindow.tutorial" />
         <item itemvalue="TestNG.İslemler.tutorial" />
-        <item itemvalue="TestNG.BaseTest.getList" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

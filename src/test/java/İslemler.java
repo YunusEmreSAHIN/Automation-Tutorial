@@ -54,7 +54,7 @@ public class İslemler {
         //Assert.assertEquals(srctext.getAttribute("placeholder"),"Aradığınız kelimeyi yazın...");
         //Tagname
         System.out.println(srctext.getTagName());
-        //driver.quit();
+                //driver.quit();
     }
 
 }
