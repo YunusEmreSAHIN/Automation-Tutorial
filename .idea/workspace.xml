@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="629a11c6-98d3-47a2-a8a4-2a05d2cc858a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/İslemler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/İslemler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.BaseTest.getList.executor": "Run",
+    "TestNG.RBandDD.ddList.executor": "Run",
     "TestNG.RBandDD.radioButton.executor": "Run",
     "TestNG.SwitchToWindow.SwitchWindow.executor": "Run",
     "TestNG.SwitchToWindow.tutorial.executor": "Run",
